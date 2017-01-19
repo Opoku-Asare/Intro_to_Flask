@@ -1,0 +1,13 @@
+C:\Users\opoku\OneDrive\UniOulu\Programmable Web Project\flask\elections\Election\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\opoku\OneDrive\UniOulu\Programmable Web Project\flask\elections\Election\obj\Debug\attach_server.py
+C:\Users\opoku\OneDrive\UniOulu\Programmable Web Project\flask\elections\Election\obj\Debug\visualstudio_py_debugger.py
+C:\Users\opoku\OneDrive\UniOulu\Programmable Web Project\flask\elections\Election\obj\Debug\visualstudio_py_repl.py
+C:\Users\opoku\OneDrive\UniOulu\Programmable Web Project\flask\elections\Election\obj\Debug\visualstudio_py_util.py
+C:\Users\opoku\OneDrive\UniOulu\Programmable Web Project\flask\elections\Election\obj\Debug\__init__.py
+C:\Users\opoku\OneDrive\UniOulu\Programmable Web Project\flask\elections\Election\obj\Debug\__main__.py
+C:\Users\opoku\OneDrive\UniOulu\Programmable Web Project\flask\elections\Election\bin\AzureSetup.cfg
+C:\Users\opoku\OneDrive\UniOulu\Programmable Web Project\flask\elections\Election\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\opoku\OneDrive\UniOulu\Programmable Web Project\flask\elections\Election\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\opoku\OneDrive\UniOulu\Programmable Web Project\flask\elections\Election\bin\wfastcgi.py
+C:\Users\opoku\OneDrive\UniOulu\Programmable Web Project\flask\elections\Election\obj\Debug\web.config
+C:\Users\opoku\OneDrive\UniOulu\Programmable Web Project\flask\elections\Election\obj\Debug\web.debug.config
